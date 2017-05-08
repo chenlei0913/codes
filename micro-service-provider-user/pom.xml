@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.yixin</groupId>
-	<artifactId>micro-service-simple-provider-user</artifactId>
+	<artifactId>micro-service-provider-user</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>micro-service-simple-provider-user</name>
+	<name>micro-service-provider-user</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
